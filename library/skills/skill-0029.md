@@ -1,4 +1,4 @@
-# Security Playbook 0029
+# Security 0029
 
 ## Metadata
 - id: skill-0029

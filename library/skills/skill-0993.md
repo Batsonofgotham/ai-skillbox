@@ -1,4 +1,4 @@
-# Documentation Playbook 0993
+# Documentation 0993
 
 ## Metadata
 - id: skill-0993

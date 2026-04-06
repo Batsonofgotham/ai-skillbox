@@ -120,7 +120,7 @@ function buildSkills() {
     const category = categories[(i - 1) % categories.length];
     const difficulty = levels[(i - 1) % levels.length];
     const id = `skill-${String(i).padStart(4, "0")}`;
-    const title = `${category[0].toUpperCase()}${category.slice(1)} Playbook ${String(i).padStart(4, "0")}`;
+    const title = `${category[0].toUpperCase()}${category.slice(1)} ${String(i).padStart(4, "0")}`;
     const tags = [category, difficulty, "reliability", "playbook"];
     const instruction = `${categoryPrompts[category]} Use deterministic steps, ask only necessary clarifying questions, and return a concise execution plan plus final deliverables.`;
 

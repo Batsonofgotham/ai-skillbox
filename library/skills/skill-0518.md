@@ -1,4 +1,4 @@
-# Coding Playbook 0518
+# Coding 0518
 
 ## Metadata
 - id: skill-0518

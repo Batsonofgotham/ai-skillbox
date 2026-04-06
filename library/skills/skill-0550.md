@@ -1,4 +1,4 @@
-# Performance Playbook 0550
+# Performance 0550
 
 ## Metadata
 - id: skill-0550

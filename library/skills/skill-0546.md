@@ -1,4 +1,4 @@
-# Architecture Playbook 0546
+# Architecture 0546
 
 ## Metadata
 - id: skill-0546

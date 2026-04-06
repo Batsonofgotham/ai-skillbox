@@ -1,4 +1,4 @@
-# Brainstorming Playbook 0529
+# Brainstorming 0529
 
 ## Metadata
 - id: skill-0529

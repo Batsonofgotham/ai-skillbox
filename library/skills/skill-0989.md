@@ -1,4 +1,4 @@
-# Security Playbook 0989
+# Security 0989
 
 ## Metadata
 - id: skill-0989

@@ -1,4 +1,4 @@
-# Brainstorming Playbook 0733
+# Brainstorming 0733
 
 ## Metadata
 - id: skill-0733

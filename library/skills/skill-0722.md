@@ -1,4 +1,4 @@
-# Coding Playbook 0722
+# Coding 0722
 
 ## Metadata
 - id: skill-0722

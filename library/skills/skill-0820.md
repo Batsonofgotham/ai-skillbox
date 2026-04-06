@@ -1,4 +1,4 @@
-# Testing Playbook 0820
+# Testing 0820
 
 ## Metadata
 - id: skill-0820

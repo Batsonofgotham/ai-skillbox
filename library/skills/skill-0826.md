@@ -1,4 +1,4 @@
-# Performance Playbook 0826
+# Performance 0826
 
 ## Metadata
 - id: skill-0826

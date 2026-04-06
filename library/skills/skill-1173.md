@@ -1,4 +1,4 @@
-# Documentation Playbook 1173
+# Documentation 1173
 
 ## Metadata
 - id: skill-1173

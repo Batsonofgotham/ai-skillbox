@@ -1,4 +1,4 @@
-# Debugging Playbook 0819
+# Debugging 0819
 
 ## Metadata
 - id: skill-0819

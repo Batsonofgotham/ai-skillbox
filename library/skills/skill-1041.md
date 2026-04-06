@@ -1,4 +1,4 @@
-# Documentation Playbook 1041
+# Documentation 1041
 
 ## Metadata
 - id: skill-1041

@@ -1,4 +1,4 @@
-# Coding Playbook 0794
+# Coding 0794
 
 ## Metadata
 - id: skill-0794

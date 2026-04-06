@@ -1,4 +1,4 @@
-# Brainstorming Playbook 0973
+# Brainstorming 0973
 
 ## Metadata
 - id: skill-0973

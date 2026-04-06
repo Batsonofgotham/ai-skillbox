@@ -1,4 +1,4 @@
-# Performance Playbook 1174
+# Performance 1174
 
 ## Metadata
 - id: skill-1174

@@ -1,4 +1,4 @@
-# Data Playbook 0635
+# Data 0635
 
 ## Metadata
 - id: skill-0635

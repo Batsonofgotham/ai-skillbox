@@ -1,4 +1,4 @@
-# Documentation Playbook 0045
+# Documentation 0045
 
 ## Metadata
 - id: skill-0045

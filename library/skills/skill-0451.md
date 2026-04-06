@@ -1,4 +1,4 @@
-# Devops Playbook 0451
+# Devops 0451
 
 ## Metadata
 - id: skill-0451

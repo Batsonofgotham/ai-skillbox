@@ -1,4 +1,4 @@
-# Refactoring Playbook 0812
+# Refactoring 0812
 
 ## Metadata
 - id: skill-0812

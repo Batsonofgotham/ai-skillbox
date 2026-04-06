@@ -1,4 +1,4 @@
-# Refactoring Playbook 0224
+# Refactoring 0224
 
 ## Metadata
 - id: skill-0224

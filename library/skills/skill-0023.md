@@ -1,4 +1,4 @@
-# Data Playbook 0023
+# Data 0023
 
 ## Metadata
 - id: skill-0023

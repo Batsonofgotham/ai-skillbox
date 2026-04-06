@@ -1,4 +1,4 @@
-# Testing Playbook 0544
+# Testing 0544
 
 ## Metadata
 - id: skill-0544

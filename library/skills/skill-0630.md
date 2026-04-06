@@ -1,4 +1,4 @@
-# Architecture Playbook 0630
+# Architecture 0630
 
 ## Metadata
 - id: skill-0630

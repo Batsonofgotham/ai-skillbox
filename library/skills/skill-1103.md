@@ -1,4 +1,4 @@
-# Data Playbook 1103
+# Data 1103
 
 ## Metadata
 - id: skill-1103

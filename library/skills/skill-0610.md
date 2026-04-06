@@ -1,4 +1,4 @@
-# Performance Playbook 0610
+# Performance 0610
 
 ## Metadata
 - id: skill-0610

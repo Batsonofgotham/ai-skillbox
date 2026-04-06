@@ -1,4 +1,4 @@
-# Architecture Playbook 0210
+# Architecture 0210
 
 ## Metadata
 - id: skill-0210

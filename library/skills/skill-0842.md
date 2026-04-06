@@ -1,4 +1,4 @@
-# Coding Playbook 0842
+# Coding 0842
 
 ## Metadata
 - id: skill-0842

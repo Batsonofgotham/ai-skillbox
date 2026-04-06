@@ -1,4 +1,4 @@
-# Architecture Playbook 0750
+# Architecture 0750
 
 ## Metadata
 - id: skill-0750

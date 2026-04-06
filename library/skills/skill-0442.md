@@ -1,4 +1,4 @@
-# Performance Playbook 0442
+# Performance 0442
 
 ## Metadata
 - id: skill-0442

@@ -1,4 +1,4 @@
-# Testing Playbook 0220
+# Testing 0220
 
 ## Metadata
 - id: skill-0220

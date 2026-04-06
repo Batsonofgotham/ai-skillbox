@@ -1,4 +1,4 @@
-# Performance Playbook 0370
+# Performance 0370
 
 ## Metadata
 - id: skill-0370

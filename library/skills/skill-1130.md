@@ -1,4 +1,4 @@
-# Coding Playbook 1130
+# Coding 1130
 
 ## Metadata
 - id: skill-1130

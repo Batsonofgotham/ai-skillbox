@@ -1,4 +1,4 @@
-# Security Playbook 1049
+# Security 1049
 
 ## Metadata
 - id: skill-1049

@@ -1,4 +1,4 @@
-# Testing Playbook 1000
+# Testing 1000
 
 ## Metadata
 - id: skill-1000

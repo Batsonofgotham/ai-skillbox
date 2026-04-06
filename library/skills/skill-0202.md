@@ -1,4 +1,4 @@
-# Performance Playbook 0202
+# Performance 0202
 
 ## Metadata
 - id: skill-0202

@@ -1,4 +1,4 @@
-# Security Playbook 1181
+# Security 1181
 
 ## Metadata
 - id: skill-1181

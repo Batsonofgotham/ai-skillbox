@@ -1,4 +1,4 @@
-# Data Playbook 0431
+# Data 0431
 
 ## Metadata
 - id: skill-0431

@@ -1,4 +1,4 @@
-# Coding Playbook 0290
+# Coding 0290
 
 ## Metadata
 - id: skill-0290

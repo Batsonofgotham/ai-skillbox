@@ -1,4 +1,4 @@
-# Testing Playbook 1108
+# Testing 1108
 
 ## Metadata
 - id: skill-1108

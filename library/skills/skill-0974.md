@@ -1,4 +1,4 @@
-# Coding Playbook 0974
+# Coding 0974
 
 ## Metadata
 - id: skill-0974

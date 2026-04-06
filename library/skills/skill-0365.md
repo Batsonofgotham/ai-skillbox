@@ -1,4 +1,4 @@
-# Security Playbook 0365
+# Security 0365
 
 ## Metadata
 - id: skill-0365

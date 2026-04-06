@@ -1,4 +1,4 @@
-# Devops Playbook 1003
+# Devops 1003
 
 ## Metadata
 - id: skill-1003

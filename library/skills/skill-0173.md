@@ -1,4 +1,4 @@
-# Security Playbook 0173
+# Security 0173
 
 ## Metadata
 - id: skill-0173

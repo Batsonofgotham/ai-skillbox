@@ -1,4 +1,4 @@
-# Architecture Playbook 0582
+# Architecture 0582
 
 ## Metadata
 - id: skill-0582

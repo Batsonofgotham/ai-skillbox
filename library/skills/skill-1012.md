@@ -1,4 +1,4 @@
-# Testing Playbook 1012
+# Testing 1012
 
 ## Metadata
 - id: skill-1012

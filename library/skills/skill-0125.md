@@ -1,4 +1,4 @@
-# Security Playbook 0125
+# Security 0125
 
 ## Metadata
 - id: skill-0125

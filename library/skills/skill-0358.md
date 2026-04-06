@@ -1,4 +1,4 @@
-# Performance Playbook 0358
+# Performance 0358
 
 ## Metadata
 - id: skill-0358

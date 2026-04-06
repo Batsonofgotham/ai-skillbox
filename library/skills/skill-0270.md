@@ -1,4 +1,4 @@
-# Architecture Playbook 0270
+# Architecture 0270
 
 ## Metadata
 - id: skill-0270

@@ -1,4 +1,4 @@
-# Coding Playbook 0422
+# Coding 0422
 
 ## Metadata
 - id: skill-0422

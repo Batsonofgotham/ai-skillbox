@@ -1,4 +1,4 @@
-# Debugging Playbook 0951
+# Debugging 0951
 
 ## Metadata
 - id: skill-0951

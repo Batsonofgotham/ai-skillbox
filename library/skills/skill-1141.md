@@ -1,4 +1,4 @@
-# Brainstorming Playbook 1141
+# Brainstorming 1141
 
 ## Metadata
 - id: skill-1141

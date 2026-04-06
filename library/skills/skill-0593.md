@@ -1,4 +1,4 @@
-# Security Playbook 0593
+# Security 0593
 
 ## Metadata
 - id: skill-0593

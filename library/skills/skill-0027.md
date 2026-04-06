@@ -1,4 +1,4 @@
-# Debugging Playbook 0027
+# Debugging 0027
 
 ## Metadata
 - id: skill-0027

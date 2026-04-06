@@ -1,4 +1,4 @@
-# Architecture Playbook 0162
+# Architecture 0162
 
 ## Metadata
 - id: skill-0162

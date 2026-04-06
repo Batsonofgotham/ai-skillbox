@@ -1,4 +1,4 @@
-# Security Playbook 0437
+# Security 0437
 
 ## Metadata
 - id: skill-0437

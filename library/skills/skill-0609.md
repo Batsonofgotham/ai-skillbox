@@ -1,4 +1,4 @@
-# Documentation Playbook 0609
+# Documentation 0609
 
 ## Metadata
 - id: skill-0609

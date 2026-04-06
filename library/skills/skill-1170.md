@@ -1,4 +1,4 @@
-# Architecture Playbook 1170
+# Architecture 1170
 
 ## Metadata
 - id: skill-1170

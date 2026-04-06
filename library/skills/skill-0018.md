@@ -1,4 +1,4 @@
-# Architecture Playbook 0018
+# Architecture 0018
 
 ## Metadata
 - id: skill-0018

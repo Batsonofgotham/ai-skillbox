@@ -1,4 +1,4 @@
-# Architecture Playbook 0810
+# Architecture 0810
 
 ## Metadata
 - id: skill-0810

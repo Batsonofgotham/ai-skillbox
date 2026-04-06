@@ -1,4 +1,4 @@
-# Coding Playbook 0278
+# Coding 0278
 
 ## Metadata
 - id: skill-0278

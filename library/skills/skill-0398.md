@@ -1,4 +1,4 @@
-# Coding Playbook 0398
+# Coding 0398
 
 ## Metadata
 - id: skill-0398

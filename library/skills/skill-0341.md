@@ -1,4 +1,4 @@
-# Security Playbook 0341
+# Security 0341
 
 ## Metadata
 - id: skill-0341

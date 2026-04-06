@@ -1,4 +1,4 @@
-# Documentation Playbook 0357
+# Documentation 0357
 
 ## Metadata
 - id: skill-0357

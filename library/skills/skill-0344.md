@@ -1,4 +1,4 @@
-# Refactoring Playbook 0344
+# Refactoring 0344
 
 ## Metadata
 - id: skill-0344

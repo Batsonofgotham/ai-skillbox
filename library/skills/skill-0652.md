@@ -1,4 +1,4 @@
-# Testing Playbook 0652
+# Testing 0652
 
 ## Metadata
 - id: skill-0652

@@ -1,4 +1,4 @@
-# Testing Playbook 0340
+# Testing 0340
 
 ## Metadata
 - id: skill-0340

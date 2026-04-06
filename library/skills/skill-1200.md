@@ -1,4 +1,4 @@
-# Frontend Playbook 1200
+# Frontend 1200
 
 ## Metadata
 - id: skill-1200

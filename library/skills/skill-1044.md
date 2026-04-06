@@ -1,4 +1,4 @@
-# Frontend Playbook 1044
+# Frontend 1044
 
 ## Metadata
 - id: skill-1044

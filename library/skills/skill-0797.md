@@ -1,4 +1,4 @@
-# Security Playbook 0797
+# Security 0797
 
 ## Metadata
 - id: skill-0797

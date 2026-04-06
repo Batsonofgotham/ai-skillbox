@@ -1,4 +1,4 @@
-# Refactoring Playbook 1148
+# Refactoring 1148
 
 ## Metadata
 - id: skill-1148

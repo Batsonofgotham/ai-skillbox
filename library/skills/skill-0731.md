@@ -1,4 +1,4 @@
-# Data Playbook 0731
+# Data 0731
 
 ## Metadata
 - id: skill-0731

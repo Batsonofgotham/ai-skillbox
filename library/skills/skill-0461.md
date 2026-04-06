@@ -1,4 +1,4 @@
-# Security Playbook 0461
+# Security 0461
 
 ## Metadata
 - id: skill-0461

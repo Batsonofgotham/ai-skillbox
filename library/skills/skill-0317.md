@@ -1,4 +1,4 @@
-# Security Playbook 0317
+# Security 0317
 
 ## Metadata
 - id: skill-0317

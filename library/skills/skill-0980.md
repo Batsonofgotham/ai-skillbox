@@ -1,4 +1,4 @@
-# Refactoring Playbook 0980
+# Refactoring 0980
 
 ## Metadata
 - id: skill-0980

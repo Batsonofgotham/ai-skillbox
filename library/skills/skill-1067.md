@@ -1,4 +1,4 @@
-# Data Playbook 1067
+# Data 1067
 
 ## Metadata
 - id: skill-1067

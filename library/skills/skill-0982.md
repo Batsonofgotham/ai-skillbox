@@ -1,4 +1,4 @@
-# Performance Playbook 0982
+# Performance 0982
 
 ## Metadata
 - id: skill-0982

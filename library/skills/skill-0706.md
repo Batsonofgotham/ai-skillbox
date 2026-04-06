@@ -1,4 +1,4 @@
-# Performance Playbook 0706
+# Performance 0706
 
 ## Metadata
 - id: skill-0706

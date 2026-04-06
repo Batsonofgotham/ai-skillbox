@@ -1,4 +1,4 @@
-# Refactoring Playbook 0572
+# Refactoring 0572
 
 ## Metadata
 - id: skill-0572

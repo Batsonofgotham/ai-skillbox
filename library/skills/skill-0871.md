@@ -1,4 +1,4 @@
-# Devops Playbook 0871
+# Devops 0871
 
 ## Metadata
 - id: skill-0871

@@ -1,4 +1,4 @@
-# Coding Playbook 1046
+# Coding 1046
 
 ## Metadata
 - id: skill-1046

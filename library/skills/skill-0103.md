@@ -1,4 +1,4 @@
-# Devops Playbook 0103
+# Devops 0103
 
 ## Metadata
 - id: skill-0103

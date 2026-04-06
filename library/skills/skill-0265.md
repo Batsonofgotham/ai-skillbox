@@ -1,4 +1,4 @@
-# Brainstorming Playbook 0265
+# Brainstorming 0265
 
 ## Metadata
 - id: skill-0265

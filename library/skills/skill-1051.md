@@ -1,4 +1,4 @@
-# Devops Playbook 1051
+# Devops 1051
 
 ## Metadata
 - id: skill-1051

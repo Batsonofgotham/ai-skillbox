@@ -1,4 +1,4 @@
-# Coding Playbook 0302
+# Coding 0302
 
 ## Metadata
 - id: skill-0302

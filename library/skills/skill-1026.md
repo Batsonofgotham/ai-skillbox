@@ -1,4 +1,4 @@
-# Architecture Playbook 1026
+# Architecture 1026
 
 ## Metadata
 - id: skill-1026

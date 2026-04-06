@@ -1,4 +1,4 @@
-# Architecture Playbook 0138
+# Architecture 0138
 
 ## Metadata
 - id: skill-0138

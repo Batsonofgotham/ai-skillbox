@@ -1,4 +1,4 @@
-# Devops Playbook 1027
+# Devops 1027
 
 ## Metadata
 - id: skill-1027

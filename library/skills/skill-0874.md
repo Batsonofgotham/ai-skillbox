@@ -1,4 +1,4 @@
-# Performance Playbook 0874
+# Performance 0874
 
 ## Metadata
 - id: skill-0874

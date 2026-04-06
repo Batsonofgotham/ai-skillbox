@@ -1,4 +1,4 @@
-# Architecture Playbook 0834
+# Architecture 0834
 
 ## Metadata
 - id: skill-0834

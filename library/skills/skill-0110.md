@@ -1,4 +1,4 @@
-# Coding Playbook 0110
+# Coding 0110
 
 ## Metadata
 - id: skill-0110

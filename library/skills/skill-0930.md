@@ -1,4 +1,4 @@
-# Architecture Playbook 0930
+# Architecture 0930
 
 ## Metadata
 - id: skill-0930

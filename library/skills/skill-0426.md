@@ -1,4 +1,4 @@
-# Architecture Playbook 0426
+# Architecture 0426
 
 ## Metadata
 - id: skill-0426

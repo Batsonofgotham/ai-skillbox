@@ -1,4 +1,4 @@
-# Brainstorming Playbook 0481
+# Brainstorming 0481
 
 ## Metadata
 - id: skill-0481

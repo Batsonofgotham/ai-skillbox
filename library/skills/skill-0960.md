@@ -1,4 +1,4 @@
-# Frontend Playbook 0960
+# Frontend 0960
 
 ## Metadata
 - id: skill-0960

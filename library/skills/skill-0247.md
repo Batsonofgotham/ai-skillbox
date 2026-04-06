@@ -1,4 +1,4 @@
-# Devops Playbook 0247
+# Devops 0247
 
 ## Metadata
 - id: skill-0247

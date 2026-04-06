@@ -1,4 +1,4 @@
-# Devops Playbook 0703
+# Devops 0703
 
 ## Metadata
 - id: skill-0703

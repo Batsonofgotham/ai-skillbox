@@ -1,4 +1,4 @@
-# Testing Playbook 0712
+# Testing 0712
 
 ## Metadata
 - id: skill-0712

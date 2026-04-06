@@ -1,4 +1,4 @@
-# Debugging Playbook 0711
+# Debugging 0711
 
 ## Metadata
 - id: skill-0711

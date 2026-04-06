@@ -1,4 +1,4 @@
-# Architecture Playbook 0354
+# Architecture 0354
 
 ## Metadata
 - id: skill-0354

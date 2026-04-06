@@ -1,4 +1,4 @@
-# Performance Playbook 0898
+# Performance 0898
 
 ## Metadata
 - id: skill-0898

@@ -1,4 +1,4 @@
-# Refactoring Playbook 0764
+# Refactoring 0764
 
 ## Metadata
 - id: skill-0764

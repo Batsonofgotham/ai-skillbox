@@ -1,4 +1,4 @@
-# Security Playbook 1085
+# Security 1085
 
 ## Metadata
 - id: skill-1085

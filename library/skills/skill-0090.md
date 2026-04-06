@@ -1,4 +1,4 @@
-# Architecture Playbook 0090
+# Architecture 0090
 
 ## Metadata
 - id: skill-0090

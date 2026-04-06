@@ -1,4 +1,4 @@
-# Architecture Playbook 0726
+# Architecture 0726
 
 ## Metadata
 - id: skill-0726

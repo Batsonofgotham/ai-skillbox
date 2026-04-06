@@ -1,4 +1,4 @@
-# Testing Playbook 1024
+# Testing 1024
 
 ## Metadata
 - id: skill-1024

@@ -1,4 +1,4 @@
-# Data Playbook 0839
+# Data 0839
 
 ## Metadata
 - id: skill-0839

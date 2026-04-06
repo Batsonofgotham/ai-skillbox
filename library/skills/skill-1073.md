@@ -1,4 +1,4 @@
-# Security Playbook 1073
+# Security 1073
 
 ## Metadata
 - id: skill-1073

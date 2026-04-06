@@ -1,4 +1,4 @@
-# Architecture Playbook 0366
+# Architecture 0366
 
 ## Metadata
 - id: skill-0366

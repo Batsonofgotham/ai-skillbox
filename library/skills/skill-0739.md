@@ -1,4 +1,4 @@
-# Devops Playbook 0739
+# Devops 0739
 
 ## Metadata
 - id: skill-0739

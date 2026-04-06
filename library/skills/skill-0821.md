@@ -1,4 +1,4 @@
-# Security Playbook 0821
+# Security 0821
 
 ## Metadata
 - id: skill-0821

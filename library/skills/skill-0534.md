@@ -1,4 +1,4 @@
-# Architecture Playbook 0534
+# Architecture 0534
 
 ## Metadata
 - id: skill-0534

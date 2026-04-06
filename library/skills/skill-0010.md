@@ -1,4 +1,4 @@
-# Performance Playbook 0010
+# Performance 0010
 
 ## Metadata
 - id: skill-0010

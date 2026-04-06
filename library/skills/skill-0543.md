@@ -1,4 +1,4 @@
-# Debugging Playbook 0543
+# Debugging 0543
 
 ## Metadata
 - id: skill-0543

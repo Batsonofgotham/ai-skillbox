@@ -1,4 +1,4 @@
-# Architecture Playbook 0966
+# Architecture 0966
 
 ## Metadata
 - id: skill-0966

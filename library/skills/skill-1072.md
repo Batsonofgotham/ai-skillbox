@@ -1,4 +1,4 @@
-# Testing Playbook 1072
+# Testing 1072
 
 ## Metadata
 - id: skill-1072

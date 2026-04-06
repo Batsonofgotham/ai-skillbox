@@ -1,4 +1,4 @@
-# Architecture Playbook 1110
+# Architecture 1110
 
 ## Metadata
 - id: skill-1110

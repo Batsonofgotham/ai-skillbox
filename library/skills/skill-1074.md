@@ -1,4 +1,4 @@
-# Architecture Playbook 1074
+# Architecture 1074
 
 ## Metadata
 - id: skill-1074

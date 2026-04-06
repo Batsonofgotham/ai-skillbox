@@ -1,4 +1,4 @@
-# Security Playbook 1013
+# Security 1013
 
 ## Metadata
 - id: skill-1013

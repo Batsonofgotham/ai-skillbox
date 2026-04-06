@@ -1,4 +1,4 @@
-# Testing Playbook 0028
+# Testing 0028
 
 ## Metadata
 - id: skill-0028

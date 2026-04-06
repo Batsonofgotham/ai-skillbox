@@ -1,4 +1,4 @@
-# Frontend Playbook 1176
+# Frontend 1176
 
 ## Metadata
 - id: skill-1176

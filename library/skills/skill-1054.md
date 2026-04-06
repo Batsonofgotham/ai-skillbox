@@ -1,4 +1,4 @@
-# Performance Playbook 1054
+# Performance 1054
 
 ## Metadata
 - id: skill-1054

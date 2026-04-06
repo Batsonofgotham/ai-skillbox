@@ -1,4 +1,4 @@
-# Performance Playbook 0034
+# Performance 0034
 
 ## Metadata
 - id: skill-0034

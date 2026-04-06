@@ -1,4 +1,4 @@
-# Documentation Playbook 0561
+# Documentation 0561
 
 ## Metadata
 - id: skill-0561

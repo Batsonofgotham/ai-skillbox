@@ -1,4 +1,4 @@
-# Performance Playbook 0178
+# Performance 0178
 
 ## Metadata
 - id: skill-0178

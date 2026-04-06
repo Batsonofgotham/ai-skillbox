@@ -1,4 +1,4 @@
-# Frontend Playbook 0024
+# Frontend 0024
 
 ## Metadata
 - id: skill-0024

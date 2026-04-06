@@ -1,4 +1,4 @@
-# Coding Playbook 0542
+# Coding 0542
 
 ## Metadata
 - id: skill-0542
