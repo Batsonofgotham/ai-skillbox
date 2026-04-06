@@ -1,0 +1,77 @@
+{
+  "id": "feature-delivery",
+  "title": "Feature Delivery Workflow",
+  "description": "A multi-step workflow for feature delivery workflow.",
+  "steps": [
+    {
+      "order": 1,
+      "category": "brainstorming",
+      "recommendedSkills": [
+        "skill-0001",
+        "skill-0013",
+        "skill-0025",
+        "skill-0037",
+        "skill-0049",
+        "skill-0061",
+        "skill-0073",
+        "skill-0085"
+      ]
+    },
+    {
+      "order": 2,
+      "category": "architecture",
+      "recommendedSkills": [
+        "skill-0006",
+        "skill-0018",
+        "skill-0030",
+        "skill-0042",
+        "skill-0054",
+        "skill-0066",
+        "skill-0078",
+        "skill-0090"
+      ]
+    },
+    {
+      "order": 3,
+      "category": "coding",
+      "recommendedSkills": [
+        "skill-0002",
+        "skill-0014",
+        "skill-0026",
+        "skill-0038",
+        "skill-0050",
+        "skill-0062",
+        "skill-0074",
+        "skill-0086"
+      ]
+    },
+    {
+      "order": 4,
+      "category": "testing",
+      "recommendedSkills": [
+        "skill-0004",
+        "skill-0016",
+        "skill-0028",
+        "skill-0040",
+        "skill-0052",
+        "skill-0064",
+        "skill-0076",
+        "skill-0088"
+      ]
+    },
+    {
+      "order": 5,
+      "category": "documentation",
+      "recommendedSkills": [
+        "skill-0009",
+        "skill-0021",
+        "skill-0033",
+        "skill-0045",
+        "skill-0057",
+        "skill-0069",
+        "skill-0081",
+        "skill-0093"
+      ]
+    }
+  ]
+}

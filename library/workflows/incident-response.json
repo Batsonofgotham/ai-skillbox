@@ -1,0 +1,77 @@
+{
+  "id": "incident-response",
+  "title": "Incident Response Workflow",
+  "description": "A multi-step workflow for incident response workflow.",
+  "steps": [
+    {
+      "order": 1,
+      "category": "debugging",
+      "recommendedSkills": [
+        "skill-0003",
+        "skill-0015",
+        "skill-0027",
+        "skill-0039",
+        "skill-0051",
+        "skill-0063",
+        "skill-0075",
+        "skill-0087"
+      ]
+    },
+    {
+      "order": 2,
+      "category": "security",
+      "recommendedSkills": [
+        "skill-0005",
+        "skill-0017",
+        "skill-0029",
+        "skill-0041",
+        "skill-0053",
+        "skill-0065",
+        "skill-0077",
+        "skill-0089"
+      ]
+    },
+    {
+      "order": 3,
+      "category": "devops",
+      "recommendedSkills": [
+        "skill-0007",
+        "skill-0019",
+        "skill-0031",
+        "skill-0043",
+        "skill-0055",
+        "skill-0067",
+        "skill-0079",
+        "skill-0091"
+      ]
+    },
+    {
+      "order": 4,
+      "category": "testing",
+      "recommendedSkills": [
+        "skill-0004",
+        "skill-0016",
+        "skill-0028",
+        "skill-0040",
+        "skill-0052",
+        "skill-0064",
+        "skill-0076",
+        "skill-0088"
+      ]
+    },
+    {
+      "order": 5,
+      "category": "documentation",
+      "recommendedSkills": [
+        "skill-0009",
+        "skill-0021",
+        "skill-0033",
+        "skill-0045",
+        "skill-0057",
+        "skill-0069",
+        "skill-0081",
+        "skill-0093"
+      ]
+    }
+  ]
+}

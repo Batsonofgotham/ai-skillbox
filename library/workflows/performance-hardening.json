@@ -1,0 +1,77 @@
+{
+  "id": "performance-hardening",
+  "title": "Performance Hardening Workflow",
+  "description": "A multi-step workflow for performance hardening workflow.",
+  "steps": [
+    {
+      "order": 1,
+      "category": "performance",
+      "recommendedSkills": [
+        "skill-0010",
+        "skill-0022",
+        "skill-0034",
+        "skill-0046",
+        "skill-0058",
+        "skill-0070",
+        "skill-0082",
+        "skill-0094"
+      ]
+    },
+    {
+      "order": 2,
+      "category": "debugging",
+      "recommendedSkills": [
+        "skill-0003",
+        "skill-0015",
+        "skill-0027",
+        "skill-0039",
+        "skill-0051",
+        "skill-0063",
+        "skill-0075",
+        "skill-0087"
+      ]
+    },
+    {
+      "order": 3,
+      "category": "refactoring",
+      "recommendedSkills": [
+        "skill-0008",
+        "skill-0020",
+        "skill-0032",
+        "skill-0044",
+        "skill-0056",
+        "skill-0068",
+        "skill-0080",
+        "skill-0092"
+      ]
+    },
+    {
+      "order": 4,
+      "category": "testing",
+      "recommendedSkills": [
+        "skill-0004",
+        "skill-0016",
+        "skill-0028",
+        "skill-0040",
+        "skill-0052",
+        "skill-0064",
+        "skill-0076",
+        "skill-0088"
+      ]
+    },
+    {
+      "order": 5,
+      "category": "devops",
+      "recommendedSkills": [
+        "skill-0007",
+        "skill-0019",
+        "skill-0031",
+        "skill-0043",
+        "skill-0055",
+        "skill-0067",
+        "skill-0079",
+        "skill-0091"
+      ]
+    }
+  ]
+}

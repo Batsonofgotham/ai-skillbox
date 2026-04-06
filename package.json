@@ -1,0 +1,31 @@
+{
+  "name": "@batsonofgotham/ai-skillbox",
+  "version": "0.1.0",
+  "description": "Installable mega-library of AI coding assistant skills, bundles, and workflows.",
+  "type": "module",
+  "files": [
+    "bin",
+    "catalog",
+    "library",
+    "README.md",
+    "LICENSE"
+  ],
+  "bin": {
+    "ai-skillbox": "./bin/ai-skillbox.js"
+  },
+  "scripts": {
+    "build:library": "node ./scripts/generate-library.mjs",
+    "catalog": "node ./scripts/build-catalog-page.mjs",
+    "build": "npm run build:library && npm run catalog"
+  },
+  "keywords": [
+    "ai",
+    "cursor",
+    "claude",
+    "gemini",
+    "skills",
+    "developer-tools"
+  ],
+  "author": "",
+  "license": "MIT"
+}
