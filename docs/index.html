@@ -18,6 +18,7 @@
     .meta { margin: 1rem 0; opacity: .8; }
     .layout { display: grid; grid-template-columns: minmax(420px, 1fr) 420px; gap: 1rem; align-items: start; }
     .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 0.75rem; }
+    .load-sentinel { height: 1px; }
     .card {
       border: 1px solid #666; border-radius: 10px; padding: 0.75rem; cursor: pointer;
       background: transparent; text-align: left;
@@ -62,7 +63,10 @@
   <input id="q" placeholder="Try: security advanced or skill-0931" />
   <div class="meta" id="meta">Loading...</div>
   <div class="layout">
-    <div class="grid" id="list"></div>
+    <div>
+      <div class="grid" id="list"></div>
+      <div class="load-sentinel" id="loadSentinel"></div>
+    </div>
     <aside class="panel" id="detail">
       <div class="muted">Select a skill card to view explanation and prompt.</div>
     </aside>
@@ -15694,7 +15698,13 @@
     const meta = document.getElementById("meta");
     const list = document.getElementById("list");
     const detail = document.getElementById("detail");
+    const loadSentinel = document.getElementById("loadSentinel");
     let activeSkillId = null;
+    let filteredSkills = [];
+    let totalSkills = 0;
+    let visibleCount = 0;
+    const batchSize = 25;
+    let observer = null;
 
     function escapeHtml(value) {
       return String(value)
@@ -15763,9 +15773,9 @@
       document.getElementById("copyInstruction").addEventListener("click", () => copyText(skill.instruction));
     }
 
-    function render(skills, total, chooseFirst = false) {
-      meta.textContent = "Showing " + skills.length + " of " + total + " skills";
-      const shown = skills.slice(0, 250);
+    function render(chooseFirst = false) {
+      const shown = filteredSkills.slice(0, visibleCount);
+      meta.textContent = "Showing " + shown.length + " of " + totalSkills + " skills";
       if (chooseFirst && shown.length > 0) activeSkillId = shown[0].id;
       if (activeSkillId && !shown.some((s) => s.id === activeSkillId)) {
         activeSkillId = shown[0] ? shown[0].id : null;
@@ -15787,24 +15797,39 @@
       list.querySelectorAll("[data-skill-id]").forEach((el) => {
         el.addEventListener("click", () => {
           activeSkillId = el.getAttribute("data-skill-id");
-          render(skills, total, false);
+          render(false);
         });
       });
     }
 
+    function resetAndRender(skills) {
+      filteredSkills = skills;
+      totalSkills = skills.length;
+      visibleCount = Math.min(batchSize, filteredSkills.length);
+      render(true);
+      if (observer) observer.disconnect();
+      observer = new IntersectionObserver((entries) => {
+        if (!entries[0] || !entries[0].isIntersecting) return;
+        if (visibleCount >= filteredSkills.length) return;
+        visibleCount = Math.min(visibleCount + batchSize, filteredSkills.length);
+        render(false);
+      }, { rootMargin: "200px 0px" });
+      observer.observe(loadSentinel);
+    }
+
     function setupCatalog(data) {
       const all = data.skills || [];
-      render(all, all.length, true);
+      resetAndRender(all);
       q.addEventListener("input", () => {
         const needle = q.value.toLowerCase().trim();
-        if (!needle) return render(all, all.length, true);
+        if (!needle) return resetAndRender(all);
         const filtered = all.filter((s) =>
           [s.id, s.title, s.category, s.difficulty, ...(s.tags || [])]
             .join(" ")
             .toLowerCase()
             .includes(needle)
         );
-        render(filtered, all.length, true);
+        resetAndRender(filtered);
       });
     }
 
