@@ -16,6 +16,13 @@ const html = `<!doctype html>
   <style>
     :root { color-scheme: light dark; }
     body { font-family: system-ui, sans-serif; max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
+    .intro {
+      border: 1px solid #666;
+      border-radius: 10px;
+      padding: 0.85rem 1rem;
+      margin: 0.5rem 0 1rem;
+      line-height: 1.45;
+    }
     input { width: 100%; padding: 0.75rem; font-size: 1rem; border-radius: 8px; border: 1px solid #888; }
     .meta { margin: 1rem 0; opacity: .8; }
     .layout { display: grid; grid-template-columns: minmax(420px, 1fr) 420px; gap: 1rem; align-items: start; }
@@ -54,6 +61,12 @@ const html = `<!doctype html>
 </head>
 <body>
   <h1>AI Skillbox Catalog</h1>
+  <div class="intro">
+    AI Skillbox is a public library of 1,200+ reusable playbooks for AI coding assistants like Cursor,
+    Claude, and Gemini. Use this catalog to discover reliable prompts for brainstorming, coding, debugging,
+    testing, security review, and delivery workflows. Click any skill card to view its full explanation,
+    copy a ready-to-run prompt, and adapt it to your project.
+  </div>
   <p>Search across all skills by id, title, category, difficulty, or tags.</p>
   <input id="q" placeholder="Try: security advanced or skill-0931" />
   <div class="meta" id="meta">Loading...</div>
